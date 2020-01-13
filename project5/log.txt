@@ -1,0 +1,24 @@
+commit 9331ea29c48a6645726bb50785ec01dfd7047b27
+Date:   Thu May 9 15:29:08 2019 -0500
+
+    5/9/2019 at 3:29 PM: finalize project 5
+
+commit dadf01a86249f9b658e22a2e6b24429732b73e25
+Date:   Wed May 8 22:19:34 2019 -0500
+
+    5/8/2019 at 10:19 PM: updating project 5 with better output messages and fixing few glitches
+
+commit 471785293a459288d609de2304246976d11c3c67
+Date:   Tue May 7 18:39:11 2019 -0500
+
+    5/7/2019 at 6:39 PM: testing for communication between master and worker
+
+commit 86fb8cfe350771cc633598e41d495463d9ba66de
+Date:   Mon May 6 19:57:49 2019 -0500
+
+    5/6/2019 at 7:57 PM: testing shm in master.c
+
+commit f9a4bf7fb7a129381e509004d74d6ccfd3136bd6
+Date:   Mon May 6 16:20:30 2019 -0500
+
+    5/6/2019 at 4:19 PM: first commit
